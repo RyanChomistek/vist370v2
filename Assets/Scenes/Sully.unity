@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: c8cdfd1b71fd62844875bc3b4f060f47, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -191,7 +191,7 @@ VideoPlayer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 770538906}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 811f0ce1849230640bf70390b39df9df, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 7766a500ba677d341af4bf00c3181ce9, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -889,17 +889,17 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalPosition.z
-      value: 2.178
+      value: -3.108
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalRotation.y
-      value: -0.8379961
+      value: 0.9262328
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -909,7 +909,7 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalRotation.w
-      value: -0.5456763
+      value: -0.37695196
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -919,12 +919,12 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: -4.627
+      value: -2.236
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -0.41
+      value: -0.095
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -969,7 +969,7 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -246.142
+      value: -495.71
       objectReference: {fileID: 0}
     - target: {fileID: 1859380729006390, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
       propertyPath: m_Name
@@ -978,7 +978,7 @@ Prefab:
     - target: {fileID: 114468076569864710, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: NextScene
-      value: Sully
+      value: Rudder
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
