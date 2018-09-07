@@ -6,20 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Sully.unity
+    guid: 5a26bfac926706948963dd75039d968b
+  - enabled: 1
+    path: Assets/Scenes/WarHymn.unity
+    guid: b8b0464387851dd4c816cfa453b9a57a
+  - enabled: 1
     path: Assets/Scenes/Rudder.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
     path: Assets/Scenes/Plaza.unity
     guid: 4bcf221c1d7226049b3554035ac94a26
   - enabled: 1
-    path: Assets/Scenes/WarHymn.unity
-    guid: b8b0464387851dd4c816cfa453b9a57a
-  - enabled: 1
     path: Assets/Scenes/Eli.unity
     guid: 09ddc47d688a0d94495389e0b23c3c97
-  - enabled: 1
-    path: Assets/Scenes/Sully.unity
-    guid: 5a26bfac926706948963dd75039d968b
   - enabled: 1
     path: Assets/Scenes/StripperPole.unity
     guid: 73f7ebe16f819744bba45c1288d99b1d
