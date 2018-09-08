@@ -796,6 +796,12 @@ Prefab:
       propertyPath: NextScene
       value: Eli
       objectReference: {fileID: 0}
+    - target: {fileID: 114531429377572926, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 457e56b8255cb1d49aa615e24f9e92cd,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
   m_IsPrefabAsset: 0

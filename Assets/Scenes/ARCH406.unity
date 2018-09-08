@@ -224,6 +224,12 @@ Prefab:
       propertyPath: m_Name
       value: scenetransition (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 114531429377572926, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c16fdcfbac13b35458f16422b68dd5b8,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
   m_IsPrefabAsset: 0
@@ -492,6 +498,12 @@ Prefab:
       propertyPath: NextScene
       value: StripperPole
       objectReference: {fileID: 0}
+    - target: {fileID: 114531429377572926, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1d3a3fa58304ec245a94c2653dd2eb96,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
   m_IsPrefabAsset: 0
@@ -921,6 +933,12 @@ Prefab:
       propertyPath: m_Name
       value: scenetransition (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114531429377572926, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2a6dd84e8cd667146a0e3d3803bbeab2,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
   m_IsPrefabAsset: 0

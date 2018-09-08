@@ -195,7 +195,7 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalPosition.z
-      value: -4.82
+      value: -3.479
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -225,12 +225,12 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 3.41
+      value: 2.035
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -0.41
+      value: -0.028
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -286,6 +286,12 @@ Prefab:
       propertyPath: NextScene
       value: Plaza
       objectReference: {fileID: 0}
+    - target: {fileID: 114531429377572926, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1a2790342f2009841b391c60a33bd9e9,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
   m_IsPrefabAsset: 0
@@ -475,7 +481,7 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalPosition.z
-      value: 1.97
+      value: 1.59
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -505,12 +511,12 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: -4.78
+      value: -3.65
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -0.41
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -566,6 +572,12 @@ Prefab:
       propertyPath: NextScene
       value: Sully
       objectReference: {fileID: 0}
+    - target: {fileID: 114531429377572926, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c16fdcfbac13b35458f16422b68dd5b8,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
   m_IsPrefabAsset: 0

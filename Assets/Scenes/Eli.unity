@@ -516,7 +516,7 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalPosition.z
-      value: 1.94
+      value: 5.03
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -526,17 +526,17 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalRotation.y
-      value: -0.4100027
+      value: -0.32671997
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalRotation.w
-      value: -0.91208434
+      value: -0.9451212
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -546,7 +546,7 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 2.507
+      value: 3.01
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -596,12 +596,63 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -311.59
+      value: -321.86
       objectReference: {fileID: 0}
     - target: {fileID: 114468076569864710, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: NextScene
       value: WarHymn
+      objectReference: {fileID: 0}
+    - target: {fileID: 114531429377572926, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b9d285b96a023e34a935eee7b79e5ff9,
+        type: 3}
+    - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -0.000000022352
+      objectReference: {fileID: 0}
+    - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -3.7072754
+      objectReference: {fileID: 0}
+    - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: -21.118225
+      objectReference: {fileID: 0}
+    - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: 0.83709717
+      objectReference: {fileID: 0}
+    - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -10.828125
+      objectReference: {fileID: 0}
+    - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_AnchorMax.x
+      value: 0.92200005
+      objectReference: {fileID: 0}
+    - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 0.81600004
+      objectReference: {fileID: 0}
+    - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_AnchorMin.x
+      value: 0.07969746
+      objectReference: {fileID: 0}
+    - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 0.22100002
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
@@ -712,6 +763,12 @@ Prefab:
       propertyPath: NextScene
       value: Plaza
       objectReference: {fileID: 0}
+    - target: {fileID: 114531429377572926, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1a2790342f2009841b391c60a33bd9e9,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
   m_IsPrefabAsset: 0

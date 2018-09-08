@@ -541,6 +541,12 @@ Prefab:
       propertyPath: NextScene
       value: ARCH406
       objectReference: {fileID: 0}
+    - target: {fileID: 114531429377572926, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 3996962c44b18344d9b995824300302d,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
   m_IsPrefabAsset: 0
@@ -822,6 +828,12 @@ Prefab:
       propertyPath: NextScene
       value: Future
       objectReference: {fileID: 0}
+    - target: {fileID: 114531429377572926, guid: 05756677c6dde694c8406e384b256d4a,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2a6dd84e8cd667146a0e3d3803bbeab2,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 05756677c6dde694c8406e384b256d4a, type: 2}
   m_IsPrefabAsset: 0
