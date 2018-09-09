@@ -536,7 +536,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1829775192}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1113.7247, y: 0, z: -0.5572408}
+  m_LocalPosition: {x: 1113.7247, y: 0, z: 3.98}
   m_LocalScale: {x: 13743.996, y: 7731.001, z: 1}
   m_Children: []
   m_Father: {fileID: 906747556}
@@ -549,7 +549,7 @@ VideoPlayer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1829775192}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 4a86684713a13a24dbb6ffeb9510f3ce, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 7b32a70106d697942be4d74a2b4e8394, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -565,10 +565,10 @@ VideoPlayer:
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
-  - 1
+  - 0.5
   m_Url: 
   m_EnabledAudioTracks: 01
-  m_DirectAudioMutes: 01
+  m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 1
   m_SkipOnDrop: 1
@@ -604,7 +604,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: a4380fb64bd23d64982ddcc539999cd2, type: 2}
+  - {fileID: 2100000, guid: b29dafe84939f4342b78ae3babe0c700, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -830,7 +830,7 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_LocalPosition.z
-      value: 2.48
+      value: 2.83
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -860,7 +860,7 @@ Prefab:
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 8.29
+      value: 9.58
       objectReference: {fileID: 0}
     - target: {fileID: 224564425664072326, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -949,27 +949,27 @@ Prefab:
     - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: -10.086487
       objectReference: {fileID: 0}
     - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -0.26898193
       objectReference: {fileID: 0}
     - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0.75447094
       objectReference: {fileID: 0}
     - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: -45.264526
       objectReference: {fileID: 0}
     - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 0.53796387
       objectReference: {fileID: 0}
     - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -979,7 +979,7 @@ Prefab:
     - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
       propertyPath: m_AnchorMin.x
-      value: 0.65047103
+      value: 0.3942654
       objectReference: {fileID: 0}
     - target: {fileID: 224382189361281702, guid: 05756677c6dde694c8406e384b256d4a,
         type: 2}
@@ -1065,10 +1065,10 @@ VideoPlayer:
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
-  - 1
+  - 0.5
   m_Url: 
   m_EnabledAudioTracks: 01
-  m_DirectAudioMutes: 01
+  m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 1
   m_SkipOnDrop: 1

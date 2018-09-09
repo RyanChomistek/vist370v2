@@ -59,6 +59,7 @@ GameObject:
   - component: {fileID: 114702291119030452}
   - component: {fileID: 114606018308934684}
   - component: {fileID: 114801425926934424}
+  - component: {fileID: 114669113378807052}
   m_Layer: 5
   m_Name: scenetransition
   m_TagString: Untagged
@@ -162,7 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4b2da66bedcd5c40885e08af3b6b2cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  NextScene: WarHymn
+  NextScene: Plaza
 --- !u!114 &114531429377572926
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -182,7 +183,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 2e82f76c21d8a304f83999e5ef041c44, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1a2790342f2009841b391c60a33bd9e9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -213,6 +214,17 @@ MonoBehaviour:
   m_Spacing: {x: 100, y: 100}
   m_Constraint: 0
   m_ConstraintCount: 3
+--- !u!114 &114669113378807052
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1859380729006390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a72c133bd890a2649af30c03b587f85a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114702291119030452
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -328,7 +340,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1859380729006390}
   m_LocalRotation: {x: 0, y: 0.7677246, z: -0, w: -0.64078003}
-  m_LocalPosition: {x: 0, y: 0, z: -1.71}
+  m_LocalPosition: {x: 0, y: 0, z: -1.03}
   m_LocalScale: {x: 0.001, y: 0.001, z: 1}
   m_Children:
   - {fileID: 224382189361281702}
@@ -337,6 +349,6 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -460.3, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -7.67, y: 0}
+  m_AnchoredPosition: {x: -3.92, y: 0}
   m_SizeDelta: {x: 4096, y: 2048}
   m_Pivot: {x: 0.5, y: 0.5}
